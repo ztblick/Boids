@@ -3,8 +3,6 @@ import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.image.BufferStrategy;
-
-// TODO: Add double-buffering
 public class BoidView extends JFrame {
 
     public static final int WINDOW_WIDTH = 1000;
