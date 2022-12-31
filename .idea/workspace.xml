@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da38ae10-f1ea-4836-95dd-9151d6a9df8b" name="Changes" comment="">
+    <list default="true" id="da38ae10-f1ea-4836-95dd-9151d6a9df8b" name="Changes" comment="Removed TODO statement.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Boid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BoidRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BoidRunner.java" afterDir="false" />
@@ -65,6 +65,21 @@
       <option name="presentableId" value="Default" />
       <updated>1669530934107</updated>
     </task>
+    <task id="LOCAL-00001" summary="Wrote all code for the three classes: Boid, BoidRunner, BoidView. Intended to be an example of Front-End/Back-End design for CS2.">
+      <created>1669789915273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669789915274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removed TODO statement.">
+      <created>1669789949604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669789949604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Wrote all code for the three classes: Boid, BoidRunner, BoidView. Intended to be an example of Front-End/Back-End design for CS2." />
+    <MESSAGE value="Removed TODO statement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed TODO statement." />
   </component>
 </project>

@@ -110,10 +110,7 @@ public class Boid {
         }
     }
 
-
-
     public void drawBoid(Graphics g) {
-
         // Get angle
         double theta = Math.atan2(dy, dx);
         double l = BOID_LENGTH/2;
@@ -125,7 +122,6 @@ public class Boid {
         double left_y = y - l*Math.sin(theta) - l/2*Math.cos(theta);
         double right_x = x - l*Math.cos(theta) - l/2*Math.sin(theta);;
         double right_y = y - l*Math.sin(theta) + l/2*Math.cos(theta);;
-
 
         g.setColor(Color.BLACK);
         g.fillPolygon(new int[] {(int)front_x, (int)left_x, (int)right_x},
